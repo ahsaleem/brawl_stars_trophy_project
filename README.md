@@ -1,4 +1,5 @@
 # Trophy Graph maker
+# Video Demo: https://youtube.com/shorts/aL-FWnuhhYg?feature=share
  → python program that when given a brawl stars tag, will calculate expected trophies for every brawler
 
  → users will be presented with 4 pre-determined options: over-performing brawlers, under-performing brawlers, expected trophies, and a graph of expected vs actual (can be expanded to support other options such as brawler strength calculator, deviation in strength e.t.c) 
